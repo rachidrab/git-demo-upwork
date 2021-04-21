@@ -8,7 +8,7 @@ public class GitDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitDemoApplication.class, args);
-        System.out.println("develop update");
+        System.out.println("release update");
     }
 
 }
